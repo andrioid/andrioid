@@ -1,5 +1,16 @@
 ## Hi there 👋
 
-I'm Andri. I'm a Computer Engineer from Iceland.
+I'm Andri. I'm a Computer Engineer from Iceland. I live in North of Denmark with my family.
 
-My current preference is TypeScript, Go and React. But, I mostly just love creating things that I can be proud of.
+### ❤️
+- Tech
+- Programming
+- Pizza
+- Coffee
+
+### ⚙️
+- React / React Native
+- TypeScript
+- HTML/CSS
+- Go
+- Databases (relational and otherwise)
